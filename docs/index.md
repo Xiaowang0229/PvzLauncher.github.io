@@ -12,9 +12,9 @@ hero:
   actions:
     - theme: brand
       text: 下载
-      link: /about
+      link: /download
     - theme: alt
-      text: 查看教程
+      text: 查看文档
       link: /quick-start
 
 features:

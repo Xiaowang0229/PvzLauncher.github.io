@@ -20,6 +20,7 @@ export default defineConfig({
         text: 'PvzLauncher',
         collapsed:false,
         items: [
+          { text: '下载', link: '/download' },
           { text: '什么是PvzLauncher?', link: '/about' },
           { text: '快速开始', link: '/quick-start' }
         ]
