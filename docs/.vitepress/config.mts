@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "PvzLauncher 官方网站",
+  title: "PvzLauncher",
   description: "Plants Vs. Zombies, 快速下载 · 管理 · 启动游戏！",
   base: '/',
 
