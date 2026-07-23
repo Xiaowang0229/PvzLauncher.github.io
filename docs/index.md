@@ -44,11 +44,11 @@ PvzLauncher 目前仅提供 Windows x64,Android 7+平台的官方支持。同时
 
 |操作系统|支持情况|备注|
 |-|-|-|
-|![win10](/image/Icons/windows.png)Windows 10(1809 及以上) x86、x64 / ![win11](/image/Icons/windows11.png)Windows 11 x64|✅完全支持|[跳转到 Windows 版快速开始](#Windows)|
-|![win7](/image/Icons/windows7.png)Windows 7(7600 及以上) x86、x64 / ![win8](/image/Icons/windows8.png)Windows 8.1 x86、x64 / ![win10-1809](/image/Icons/windows10-1809-.png)Windows 10(1809 及以下) x86、x64|❔理论支持|.NET10 官方已放弃对这些平台的支持，但已有成功运行案例 [跳转到 Windows 版快速开始](#Windows)|
-|![linux](/image/Icons/linux.png)Linux 部分发行版|❔理论支持|可以使用 Wine 等 Windows 兼容层运行 [跳转到 Windows 版快速开始](#Windows)|
-|![android](/image/Icons/android.png)Android 7 及以上 (x86/x64/arm64-v8a/armeabi-v7a)|✅完全支持|[跳转到 Android 版快速开始](#Android)|
-|![macos](/image/Icons/macos.png)MacOS / ![ios](/image/Icons/macos.png)iOS / ![web](/image/Icons/web.png)Web / ![winxp](/image/Icons/windows7.png)Windows 7 以下 / ![android](/image/Icons/android.png)Android 7 及以下 / ![winlator](/image/Icons/windows.png)Winlator 等 Android 端 Windows 模拟器等|❌不支持|目前暂无计划支持此类平台|
+|Windows 10(1809 及以上) x86、x64 / Windows 11 x64 全部版本|✅完全支持|[跳转到 Windows 版快速开始](#Windows)|
+|Windows 7(7600 及以上) x86、x64 / Windows 8.x x86、x64 / !Windows 10(1809 及以下) x86、x64|❔理论支持|.NET10 官方已放弃对这些平台的支持，但已有成功运行案例 [跳转到 Windows 版快速开始](#Windows)|
+|Linux 部分发行版|❔理论支持|可以使用 Wine 等 Windows 兼容层运行 [跳转到 Windows 版快速开始](#Windows)|
+|Android 7 及以上 (x86/x64/arm64-v8a/armeabi-v7a)|✅完全支持|[跳转到 Android 版快速开始](#Android)|
+|MacOS / iOS / Web / Windows 7 以下 / Android 7 以下 / Winlator 等 Android 端模拟器等|❌不支持|目前暂无计划支持此类平台|
 
 * **✅完全支持**: 程序可以在此平台完美运行，如出现问题会积极解决
 * **❔理论支持**: 程序理论上可以在这些平台上运行，但体验感极差。尤其不推荐在这些平台上运行，如果出现问题，开发者不会解决
